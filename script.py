@@ -25,3 +25,4 @@ for c in list_of_content:
     shutil.move(source_path, path)
     print(f'Moved {c} to archive')
        
+# Created by Tim Siebert
