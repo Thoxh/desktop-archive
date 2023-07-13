@@ -26,3 +26,4 @@ for c in list_of_content:
     print(f'Moved {c} to archive')
        
 # Created by Tim Siebert
+# Version 1.0.0
